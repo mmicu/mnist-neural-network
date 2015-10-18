@@ -1,0 +1,5 @@
+compile.sh
+Makefile2
+mnn_main
+mnn_unit_test
+*.o

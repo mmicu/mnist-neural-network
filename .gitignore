@@ -1,0 +1,9 @@
+data/images/
+dependencies/
+openmp/
+other/
+report/
+test/
+
+report
+*.DS_Store
